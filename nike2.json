@@ -1,0 +1,24 @@
+[
+    {
+        "id": 4,
+        "title": "Cobb Salady",
+        "imgUrl": "img/nike/salad4.jpg",
+        "content": "Recommended for dieters",
+        "price": 19000
+    },
+    {
+        "id": 5,
+        "title": "Ricotta Cheese Salady",
+        "imgUrl": "img/nike/salad5.jpg",
+        "content": "Lots of savory soft ricotta cheese!",
+        "price": 19000
+    },
+    {
+        "id": 6,
+        "title": "Salmon Salady",
+        "imgUrl": "img/nike/salad6.jpg",
+        "content": "Magic Salad to get rid of dark circles",
+        "price": 17000
+    }
+      
+  ]

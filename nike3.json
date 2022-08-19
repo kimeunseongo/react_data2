@@ -1,0 +1,24 @@
+[
+    {
+        "id": 7,
+        "title": "Beef Loin Noodles Salady",
+        "imgUrl": "img/nike/salad7.jpg",
+        "content": "Recommended for dieters",
+        "price": 19000
+    },
+    {
+        "id": 8,
+        "title": "Jalapeno Chicken Warm Bowl",
+        "imgUrl": "img/nike/salad8.jpg",
+        "content": "Recommended for dieters",
+        "price": 19000
+    },
+    {
+        "id": 9,
+        "title": "Falafel Pumpkin Warm Bowl",
+        "imgUrl": "img/nike/salad9.jpg",
+        "content": "Recommended for dieters",
+        "price": 17000
+    }
+      
+  ]
